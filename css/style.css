@@ -266,9 +266,11 @@ margin-left: 2rem;
   align-items: center;
   text-align: center;
   padding: 5rem 1rem;
-  background-image: url(../images/newsletters.png);
+  background-color: #f83292;
   background-position:center;
   background-size: cover    ;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
 }
 
 .newsletter h3{
